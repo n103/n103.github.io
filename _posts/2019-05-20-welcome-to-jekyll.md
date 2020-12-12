@@ -2,3 +2,8 @@
 layout: post
 ---
 test
+<div id="text"></div>
+ 
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
