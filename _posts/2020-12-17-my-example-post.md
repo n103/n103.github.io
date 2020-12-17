@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-    <script>
+<script>
     src='https://cdn.plot.ly/plotly-latest.min.js'
         Plotly.d3.json('tod.json', function(fig) {
 
@@ -45,8 +45,7 @@ layout: post
 
             Plotly.newPlot('myDiv', data, layout)
         });
-
-    </script>
+</script>
 {% comment %}
 Might you have an include in your theme? Why not try it here!
 {% include my-themes-great-include.html %}
