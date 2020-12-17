@@ -1,6 +1,11 @@
 ---
 layout: post
 ---
+
+<div id='myDiv'>
+<!-- Plotly chart will be drawn inside this DIV -->
+</div>
+    
 <script>
     src='https://cdn.plot.ly/plotly-latest.min.js'
         Plotly.d3.json('tod.json', function(fig) {
