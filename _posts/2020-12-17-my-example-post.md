@@ -7,8 +7,7 @@ layout: post
 </div>
     
 <script>
-    src='https://cdn.plot.ly/plotly-latest.min.js'
-        Plotly.d3.json('tod.json', function(fig) {
+        Plotly.d3.json('https://raw.githubusercontent.com/n103/n103.github.io/master/_posts/tod.json', function(fig) {
 
             var data = {
                 type: "sankey",
