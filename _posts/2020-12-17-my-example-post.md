@@ -2,52 +2,38 @@
 layout: post
 ---
 
+<script src='tod.js'></script> 
 <div id='myDiv'>
 <!-- Plotly chart will be drawn inside this DIV -->
 </div>
-    
 <script>
-        Plotly.d3.json('https://raw.githubusercontent.com/n103/n103.github.io/master/_posts/tod.json', function(fig) {
+        var log = {
+            x: data['source'],
+            y: data['target'],
+            text: data['text'],
 
-            var data = {
-                type: "sankey",
-                domain: {
-                    x: [0, 1],
-                    y: [0, 1]
-                },
-                orientation: "h",
-                valueformat: ".0f",
-                node: {
-                    pad: 15,
-                    thickness: 15,
-                    line: {
-                        color: "black",
-                        width: 0.5
-                    },
-                    label: fig.data[0].node.label,
-                    color: fig.data[0].node.color
-                },
+            mode: 'markers',
+            marker: {
+                size: data['valueLog'],
+                color: data['color']
+            }
+        };
 
-                link: {
-                    source: fig.data[0].link.source,
-                    target: fig.data[0].link.target,
-                    value: fig.data[0].link.value,
-                    label: fig.data[0].link.label
-                }
+        var config = [log];
+
+        var layout = {
+            title: 'Todeszahlen Deutschland 2019',
+            showlegend: false,
+            height: 1800,
+            //width: 1400,
+            autosize: true,
+            margin: {
+                l: 310
             }
 
-            var data = [data]
+        };
 
-            var layout = {
-                //width: 2000,
-                height: 5500,
-                autosize: true,
-                font: {
-                    size: 10
-                }
-            }
-
-            Plotly.newPlot('myDiv', data, layout)
+        Plotly.newPlot('myDiv', config, layout);
         });
 </script>
 {% comment %}
