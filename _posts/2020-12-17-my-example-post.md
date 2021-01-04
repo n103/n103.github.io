@@ -1,12 +1,12 @@
 ---
 layout: post
 ---
-
+a
 <script src='tod.js'></script> 
 <div id='myDiv'>
 <!-- Plotly chart will be drawn inside this DIV -->
 </div>
-<script>
+<script>        
         var log = {
             x: data['source'],
             y: data['target'],
@@ -34,7 +34,7 @@ layout: post
         };
 
         Plotly.newPlot('myDiv', config, layout);
-        });
+
 </script>
 {% comment %}
 Might you have an include in your theme? Why not try it here!
