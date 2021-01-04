@@ -1,8 +1,8 @@
 ---
 layout: post
 ---
-c
-<script type="application/javascript src='https://raw.githubusercontent.com/n103/n103.github.io/master/_posts/tod.js'></script> 
+d
+<script type="application/javascript" src='https://raw.githubusercontent.com/n103/n103.github.io/master/_posts/tod.js'></script> 
 <div id='myDiv'>
 <!-- Plotly chart will be drawn inside this DIV -->
 </div>
