@@ -1,11 +1,11 @@
 ---
 layout: post
 ---
-d
+nach Alter und Geschlecht
 <div id='myDiv'>
 <!-- Plotly chart will be drawn inside this DIV -->
 </div>
-<script> src="{{base}}/assets/tod.js </script>
+<script src="{{base}}/assets/tod.js" > </script>
 <script>
 
         
