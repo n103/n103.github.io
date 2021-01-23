@@ -1,7 +1,8 @@
 ---
 layout: post
 ---
-Todezahlen in Deutschland aus 2019. Nach Ursache, Alter und Geschlecht
+Todezahlen in Deutschland aus 2019. Nach Ursache, Alter und Geschlecht.
+Die GRafik ist für Computer optimiert. Auf kleinen Bildschirmen (z.B. Smartphones) ist das Querformat zu bevorzugen.
 <div id='myDiv'>
 <!-- Plotly chart will be drawn inside this DIV -->
 </div>
