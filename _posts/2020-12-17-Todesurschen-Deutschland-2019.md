@@ -41,7 +41,7 @@ Todezahlen in Deutschland aus 2019. Nach Ursache, Alter und Geschlecht
 
 Quelle: [Statistisches Bundesamt (Destatis)](https://www-genesis.destatis.de/genesis/online?sequenz=tabelleErgebnis&selectionname=23211-0004#abreadcrumb) (Code: 23211-0004)
 
-Die Daten wurden als [Flat-CSV mit einem]() heruntergeladen. Daraus wurde anschliessend mit einem [Python-Script]() eine Java-Script Datei generiert. Diese wird mirhilfe von Plotly graphisch aufbereited.
+Die Daten wurden als [Flat-CSV](https://raw.githubusercontent.com/n103/n103.github.io/master/resources/todeszahlen/23211-0004_flat.csv) heruntergeladen und nicht benötigte Spalten entfernt. Daraus wurde anschliessend mit einem [Python-Script](hhttps://raw.githubusercontent.com/n103/n103.github.io/master/resources/todeszahlen/tod_script.py) eine [Java-Script Datei](https://raw.githubusercontent.com/n103/n103.github.io/master/assets/tod.js) generiert. Diese wird mirhilfe von [Plotly](https://plotly.com/javascript/bubble-charts/) graphisch aufbereited.
 {% comment %}
 Might you have an include in your theme? Why not try it here!
 {% include my-themes-great-include.html %}
