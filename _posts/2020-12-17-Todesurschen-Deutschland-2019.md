@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-nach Alter und Geschlecht
+Todezahlen in Deutschland aus 2019. Nach Ursache, Alter und Geschlecht
 <div id='myDiv'>
 <!-- Plotly chart will be drawn inside this DIV -->
 </div>
@@ -23,7 +23,7 @@ nach Alter und Geschlecht
 
         var config = [log];
 
-        var layout = {
+        var layout = { 
             title: 'Todeszahlen Deutschland 2019',
             showlegend: false,
             height: 1800,
@@ -38,9 +38,12 @@ nach Alter und Geschlecht
         Plotly.newPlot('myDiv', config, layout);
 
 </script>
+
+Quelle: [Statistisches Bundesamt (Destatis)](https://www-genesis.destatis.de/genesis/online?sequenz=tabelleErgebnis&selectionname=23211-0004#abreadcrumb) (Code: 23211-0004)
+
+Die Daten wurden als [Flat-CSV mit einem]() heruntergeladen. Daraus wurde anschliessend mit einem [Python-Script]() eine Java-Script Datei generiert. Diese wird mirhilfe von Plotly graphisch aufbereited.
 {% comment %}
 Might you have an include in your theme? Why not try it here!
 {% include my-themes-great-include.html %}
 {% endcomment %}
 
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
