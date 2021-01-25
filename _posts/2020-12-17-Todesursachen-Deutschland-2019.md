@@ -1,16 +1,13 @@
 ---
 layout: post
 ---
-Todezahlen in Deutschland aus 2019. Nach Ursache, Alter und Geschlecht.
-Die GRafik ist für Computer optimiert. Auf kleinen Bildschirmen (z.B. Smartphones) ist das Querformat zu bevorzugen.
+Die Grafik ist für Computer optimiert. Auf kleinen Bildschirmen (z.B. Smartphones) ist das Querformat zu bevorzugen.
 <div id='myDiv'>
 <!-- Plotly chart will be drawn inside this DIV -->
 </div>
 <script src="{{base}}/assets/tod.js" > </script>
 <script src="{{base}}/assets/plotly.js" > </script>
 <script>
-
-        
         var log = {
             x: data['source'],
             y: data['target'],
@@ -23,10 +20,11 @@ Die GRafik ist für Computer optimiert. Auf kleinen Bildschirmen (z.B. Smartphon
             }
         };
 
-        var config = [log];
+        var dataPlotly = [log];
 
-        var layout = { 
-            title: 'Todeszahlen Deutschland 2019',
+        var layout = {
+            title: 'Todezahlen in Deutschland aus 2019. Nach Ursache, Alter und Geschlecht.',
+            hovermode: "closest",
             showlegend: false,
             height: 1800,
             //width: 1400,
@@ -37,7 +35,12 @@ Die GRafik ist für Computer optimiert. Auf kleinen Bildschirmen (z.B. Smartphon
 
         };
 
-        Plotly.newPlot('myDiv', config, layout);
+        var config = {
+            modeBarButtonsToRemove: ['zoom2d', 'pan2d', 'select2d', 'lasso2d', 'zoomIn2d', 'zoomOut2d', 'autoScale2d', 'resetScale2d', 'toggleSpikelines', 'hoverCompareCartesian', 'hoverClosestCartesian'],
+            displaylogo: false
+        }
+
+        Plotly.newPlot('myDiv', dataPlotly, layout, config );
 
 </script>
 
