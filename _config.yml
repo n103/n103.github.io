@@ -1,7 +1,7 @@
 title: N103
 author:
-  #name: 
-  email: n103@posteo.me
+  name: n103@posteo.me
+  #email: 
 description: > # this means to ignore newlines until "show_excerpts:"
  Kleine Website zum rumprobieren.
 show_excerpts: false # set to true to show excerpts on the homepage
