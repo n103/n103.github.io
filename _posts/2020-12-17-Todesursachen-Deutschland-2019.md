@@ -2,12 +2,17 @@
 layout: post
 ---
 Die Grafik ist für Computer optimiert. Auf kleinen Bildschirmen (z.B. Smartphones) ist das Querformat zu bevorzugen.
+
+<button onclick="create(log)">Logarithmisch</button> 
+<button onclick="create(lin)">Linear Gesamt</button> 
+<button onclick="create(linU)">Linear U50 </button> 
+    
 <div id='myDiv'>
 <!-- Plotly chart will be drawn inside this DIV -->
 </div>
 <script src="{{base}}/assets/tod.js" > </script>
 <script src="{{base}}/assets/plotly.js" > </script>
-<script>
+ <script>
         var log = {
             x: data['source'],
             y: data['target'],
@@ -16,6 +21,30 @@ Die Grafik ist für Computer optimiert. Auf kleinen Bildschirmen (z.B. Smartphon
             mode: 'markers',
             marker: {
                 size: data['valueLog'],
+                color: data['color']
+            }
+        };
+
+        var lin = {
+            x: data['source'],
+            y: data['target'],
+            text: data['text'],
+
+            mode: 'markers',
+            marker: {
+                size: data['valueLin'],
+                color: data['color']
+            }
+        };
+
+        var linU = {
+            x: data['sourceU'],
+            y: data['target'],
+            text: data['text'],
+
+            mode: 'markers',
+            marker: {
+                size: data['valueLinU'],
                 color: data['color']
             }
         };
@@ -40,9 +69,14 @@ Die Grafik ist für Computer optimiert. Auf kleinen Bildschirmen (z.B. Smartphon
             displaylogo: false
         }
 
-        Plotly.newPlot('myDiv', dataPlotly, layout, config );
 
-</script>
+        create(linU)
+
+        function create(plotlyData) {
+            Plotly.newPlot('myDiv', [plotlyData], layout, config);
+        }
+
+    </script>
 
 Quelle: [Statistisches Bundesamt (Destatis)](https://www-genesis.destatis.de/genesis/online?sequenz=tabelleErgebnis&selectionname=23211-0004#abreadcrumb) (Code: 23211-0004)
 
