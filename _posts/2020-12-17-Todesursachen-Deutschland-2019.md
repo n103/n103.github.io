@@ -4,11 +4,16 @@ layout: post
 Die Grafik ist für Computer optimiert. Auf kleinen Bildschirmen (z.B. Smartphones) ist das Querformat zu bevorzugen.
 
 In dieser Grafik sind aus Gründen der Üersichtlichkeit nur Todesursachen mit einem Datenpunkt größer als 8000 aufgeführt. Ein Datenpunkt besteht aus jeweils einer Altersgruppe und einer Todesursache. Die Farbverlauf entspricht entspricht der Geschlechterverteilung, wobei Männer blau und Frauen grün repräsentiert werden.
-    <div id='B'></div>
+
+<div id='B'></div>
+
 Auffällig ist, dass alle Datenpunkte von Altersgruppen unter 50 Jahren so klein sind, dass sie nicht mehr erkennbar sind. In der folgenden Grafik sind deshalb die ALtersgruppen unter 50 Jahren, mit Todesursachen mit einem Datenpunkt größer als 200, dargestelt.
-    <div id='C'></div>
+
+<div id='C'></div>
+
 Im folgenden nochmal alle Todesursachen aller Altersgruppen. Die größe der Datenpunkte verhält sich logarithmisch zu einander (zur Basis 1,4).
-    <div id='A'></div>
+
+<div id='A'></div>
     
 <script src="{{base}}/assets/tod.js" > </script>
 <script src="{{base}}/assets/plotly.js" > </script>
