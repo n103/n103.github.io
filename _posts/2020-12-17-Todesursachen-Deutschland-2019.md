@@ -3,59 +3,60 @@ layout: post
 ---
 Die Grafik ist für Computer optimiert. Auf kleinen Bildschirmen (z.B. Smartphones) ist das Querformat zu bevorzugen.
 
-<button onclick="create(log)">Logarithmisch</button> 
-<button onclick="create(lin)">Linear Gesamt</button> 
-<button onclick="create(linU)">Linear U50 </button> 
+In dieser Grafik sind aus Gründen der Üersichtlichkeit nur Todesursachen mit einem Datenpunkt größer als 8000 aufgeführt. Ein Datenpunkt besteht aus jeweils einer Altersgruppe und einer Todesursache. Die Farbverlauf entspricht entspricht der Geschlechterverteilung, wobei Männer blau und Frauen grün repräsentiert werden.
+    <div id='B'></div>
+Auffällig ist, dass alle Datenpunkte von Altersgruppen unter 50 Jahren so klein sind, dass sie nicht mehr erkennbar sind. In der folgenden Grafik sind deshalb die ALtersgruppen unter 50 Jahren, mit Todesursachen mit einem Datenpunkt größer als 200, dargestelt.
+    <div id='C'></div>
+Im folgenden nochmal alle Todesursachen aller Altersgruppen. Die größe der Datenpunkte verhält sich logarithmisch zu einander (zur Basis 1,4).
+    <div id='A'></div>
     
-<div id='myDiv'>
-<!-- Plotly chart will be drawn inside this DIV -->
-</div>
 <script src="{{base}}/assets/tod.js" > </script>
 <script src="{{base}}/assets/plotly.js" > </script>
  <script>
-        var log = {
-            x: data['source'],
-            y: data['target'],
-            text: data['text'],
+        var A = {
+            x: data['sourceA'],
+            y: data['targetA'],
+            text: data['textA'],
 
             mode: 'markers',
             marker: {
-                size: data['valueLog'],
-                color: data['color']
+                size: data['sizeA'],
+                color: data['colorA']
             }
         };
 
-        var lin = {
-            x: data['source'],
-            y: data['target'],
-            text: data['text'],
+        var B = {
+            x: data['sourceB'],
+            y: data['targetB'],
+            text: data['textB'],
 
             mode: 'markers',
             marker: {
-                size: data['valueLin'],
-                color: data['color']
+                size: data['sizeB'],
+                color: data['colorB']
             }
         };
 
-        var linU = {
-            x: data['sourceU'],
-            y: data['target'],
-            text: data['text'],
+        var C = {
+            x: data['sourceC'],
+            y: data['targetC'],
+            text: data['textC'],
 
             mode: 'markers',
             marker: {
-                size: data['valueLinU'],
-                color: data['color']
+                size: data['sizeC'],
+                color: data['colorC']
             }
         };
 
-        var dataPlotly = [log];
 
-        var layout = {
-            title: 'Todezahlen in Deutschland aus 2019. Nach Ursache, Alter und Geschlecht.',
+        //var dataPlotly = [A];
+
+        var layoutA = {
+            title: 'Alle Ursachen und Altersgruppen. Darstellung logarithmisch',
             hovermode: "closest",
             showlegend: false,
-            height: 1800,
+            height: 1600,
             //width: 1400,
             autosize: true,
             margin: {
@@ -64,17 +65,42 @@ Die Grafik ist für Computer optimiert. Auf kleinen Bildschirmen (z.B. Smartphon
 
         };
 
+        var layoutB = {
+            title:'Ursachen mit mindestens 8000 Fällen einer Altersgruppe',
+            hovermode: "closest",
+            showlegend: false,
+            height: 600,
+            //width: 1400,
+            autosize: true,
+            margin: {
+                l: 310
+            }
+
+        };
+
+        var layoutC = {
+            title: 'Alter unter 50. Ursachen mit mindestens 200 Fällen einer Altersgruppe.',
+            hovermode: "closest",
+            showlegend: false,
+            height: 900,
+            //width: 1400,
+            autosize: true,
+            margin: {
+                l: 310
+            }
+
+        };
+
+
         var config = {
             modeBarButtonsToRemove: ['zoom2d', 'pan2d', 'select2d', 'lasso2d', 'zoomIn2d', 'zoomOut2d', 'autoScale2d', 'resetScale2d', 'toggleSpikelines', 'hoverCompareCartesian', 'hoverClosestCartesian'],
             displaylogo: false
         }
 
 
-        create(linU)
-
-        function create(plotlyData) {
-            Plotly.newPlot('myDiv', [plotlyData], layout, config);
-        }
+        Plotly.newPlot('A', [A], layoutA, config);
+        Plotly.newPlot('B', [B], layoutB, config);
+        Plotly.newPlot('C', [C], layoutC, config);
 
     </script>
 
