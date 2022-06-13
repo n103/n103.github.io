@@ -6,7 +6,7 @@ permalink: /about/
 
 Mein kleiner Blog. In unregelmäßigen Abständen kommt hoffentlich immer mal wieder was dazu.
 ---
-Die Website basiert auf [Minima](https://github.com/jekyll/minima) und steht unter der MIT Lizenz:
+Das Design der Website basiert auf [Minima](https://github.com/jekyll/minima) und steht unter der MIT Lizenz:
 
 Copyright (c) 2016-present Parker Moore and the minima contributors
 
