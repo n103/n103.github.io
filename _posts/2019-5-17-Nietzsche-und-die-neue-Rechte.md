@@ -5,7 +5,7 @@ layout: post
 
 ### Einleitung
 
-*„Welches Buch hat Sie nachhaltig beeinflußt?“*<div>[1]</div> Diese Frage beantwortete Björn Höcke in einem Fragebogen der Wochenzeitung *Junge Freiheit* mit: „Friedrich Nietzsche: Genealogie der Moral“.[2] Die Junge Freiheit  (JF) entstand, ihrer Selbstdarstellung nach, aus einem universitären Milieu in den 1980er Jahren. Sie bezeichnet sich als „das konservative Medium im deutschsprachigen Raum“.[3] Braun, Geisler und Gerster charakterisieren die Junge Freiheit als „eine der schärfsten Waffen im Arsenal der Neuen Rechten“.[4] Ihnen zufolge spielt das Blatt nach wie vor “für die Vernetzung von alter und neuer, extremer und demokratischer Rechter eine zentrale Rolle.“[5] Björn Höcke ist unteranderem Mitgründer der national-konservativen Gruppe ‚der Flügel‘ innerhalb der AfD.[6] „Dieser unterhält wiederum Verbindungen zur Identitären Bewegung und weiteren Zirkeln der sogenannten Neuen Rechten.“[7]
+*„Welches Buch hat Sie nachhaltig beeinflußt?“*[1] Diese Frage beantwortete Björn Höcke in einem Fragebogen der Wochenzeitung *Junge Freiheit* mit: „Friedrich Nietzsche: Genealogie der Moral“.[2] Die Junge Freiheit  (JF) entstand, ihrer Selbstdarstellung nach, aus einem universitären Milieu in den 1980er Jahren. Sie bezeichnet sich als „das konservative Medium im deutschsprachigen Raum“.[3] Braun, Geisler und Gerster charakterisieren die Junge Freiheit als „eine der schärfsten Waffen im Arsenal der Neuen Rechten“.[4] Ihnen zufolge spielt das Blatt nach wie vor “für die Vernetzung von alter und neuer, extremer und demokratischer Rechter eine zentrale Rolle.“[5] Björn Höcke ist unteranderem Mitgründer der national-konservativen Gruppe ‚der Flügel‘ innerhalb der AfD.[6] „Dieser unterhält wiederum Verbindungen zur Identitären Bewegung und weiteren Zirkeln der sogenannten Neuen Rechten.“[7]
 
 > „Ursprünglich bezog sich der Begriff ‚Neue Rechte‘ auf Gruppierungen innerhalb des organisierten Rechtsextremismus, die sich gegen die am Nationalsozialismus oder am Deutschnationalismus orientierte ‚Alte Rechte‘ richten. Mittlerweile werden damit allerdings in erster Linie die an der Konservativen Revolution der Weimarer Republik orientierten intellektuellen Vordenker der extremen Rechten bezeichnet.“[8]
 
@@ -139,26 +139,26 @@ Besonders eindrücklich wird dies dadurch, dass Hinz, durch das Verfassen des Ar
 
 ---
 
-[1]: Höcke, Bernd: Fragebogen. In: Junge Freiheit, 50/2014, Abrufdatum: 10.05.2019.
+[1] Höcke, Bernd: Fragebogen. In: Junge Freiheit, 50/2014, Abrufdatum: 10.05.2019.
 
-[2]: Ebd.
+[2] Ebd.
 
-[3]: Junge Freiheit: Stellenangebote, https://jungefreiheit.de/informationen/stellenangebote/, Abrufdatum: 10.05.2019.
+[3] Junge Freiheit: Stellenangebote, https://jungefreiheit.de/informationen/stellenangebote/, Abrufdatum: 10.05.2019.
 
-[4]: Braun, Stephan; Alexander Geisler, Martin Gerster: Die „Junge Freiheit“ der „Neuen Rechten“. Bundes- und landespolitische Perspektiven zur „Jungen Freiheit“ und den Medien der „Neuen Rechten“. In: Braun, Stephan; Ute Vogt (Hg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden, Wiesbaden 2007, S. 17.
+[4] Braun, Stephan; Alexander Geisler, Martin Gerster: Die „Junge Freiheit“ der „Neuen Rechten“. Bundes- und landespolitische Perspektiven zur „Jungen Freiheit“ und den Medien der „Neuen Rechten“. In: Braun, Stephan; Ute Vogt (Hg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden, Wiesbaden 2007, S. 17.
 
-[5]: Ebd., S. 16.
+[5] Ebd., S. 16.
 
-[6]: Niedermayer, Oskar: Parteimitgliedschaften. In: Handbuch Parteienforschung, Wiesbaden 2013, S. 163.
+[6] Niedermayer, Oskar: Parteimitgliedschaften. In: Handbuch Parteienforschung, Wiesbaden 2013, S. 163.
 
-[7]: Decker, Frank: Die Organisation der AfD, https://www.bpb.de/politik/grundfragen/parteien-in-
+[7] Decker, Frank: Die Organisation der AfD, https://www.bpb.de/politik/grundfragen/parteien-in-
 deutschland/afd/273133/organisation, Abrufdatum: 10.05.2019.
 
-[8]: Stöss, Richard: Die „Neue Rechte“ in der Bundesrepublik, https://www.bpb.de/politik/extremismus/rechtsextremismus/229981/die-neue-rechte-in-der-bundesrepublik, Abrufdatum 10.05.2019.
+[8] Stöss, Richard: Die „Neue Rechte“ in der Bundesrepublik, https://www.bpb.de/politik/extremismus/rechtsextremismus/229981/die-neue-rechte-in-der-bundesrepublik, Abrufdatum 10.05.2019.
 
-[9]: Kaufmann, Sebastian: Nietzsche als Vordenker der Neuen Rechten?. In: Zeitschrift für Sozialpädagogik 1/2017, S. 88 f. 
+[9] Kaufmann, Sebastian: Nietzsche als Vordenker der Neuen Rechten?. In: Zeitschrift für Sozialpädagogik 1/2017, S. 88 f. 
 
-[10]: Ebd., S. 90.
+[10] Ebd., S. 90.
 
 [11] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 89.
 
