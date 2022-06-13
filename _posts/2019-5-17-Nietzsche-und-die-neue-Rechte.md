@@ -138,9 +138,13 @@ Besonders eindrücklich wird dies dadurch, dass Hinz, durch das Verfassen des Ar
 
 
 ---
+
 [1]: Höcke, Bernd: Fragebogen. In: Junge Freiheit, 50/2014, Abrufdatum: 10.05.2019.
+
 [2]: Ebd.
+
 [3]: Junge Freiheit: Stellenangebote, https://jungefreiheit.de/informationen/stellenangebote/, Abrufdatum: 10.05.2019.
+
 [4]: Braun, Stephan; Alexander Geisler, Martin Gerster: Die „Junge Freiheit“ der „Neuen Rechten“. Bundes- und landespolitische Perspektiven zur „Jungen Freiheit“ und den Medien der „Neuen Rechten“. In: Braun, Stephan; Ute Vogt (Hg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden, Wiesbaden 2007, S. 17.
 [5]: Ebd., S. 16.
 [6]: Niedermayer, Oskar: Parteimitgliedschaften. In: Handbuch Parteienforschung, Wiesbaden 2013, S. 163.
