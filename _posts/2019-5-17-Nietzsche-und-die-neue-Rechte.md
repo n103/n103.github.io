@@ -146,129 +146,159 @@ Besonders eindrücklich wird dies dadurch, dass Hinz, durch das Verfassen des Ar
 [3]: Junge Freiheit: Stellenangebote, https://jungefreiheit.de/informationen/stellenangebote/, Abrufdatum: 10.05.2019.
 
 [4]: Braun, Stephan; Alexander Geisler, Martin Gerster: Die „Junge Freiheit“ der „Neuen Rechten“. Bundes- und landespolitische Perspektiven zur „Jungen Freiheit“ und den Medien der „Neuen Rechten“. In: Braun, Stephan; Ute Vogt (Hg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden, Wiesbaden 2007, S. 17.
+
 [5]: Ebd., S. 16.
+
 [6]: Niedermayer, Oskar: Parteimitgliedschaften. In: Handbuch Parteienforschung, Wiesbaden 2013, S. 163.
+
 [7]: Decker, Frank: Die Organisation der AfD, https://www.bpb.de/politik/grundfragen/parteien-in-
 deutschland/afd/273133/organisation, Abrufdatum: 10.05.2019.
+
 [8]: Stöss, Richard: Die „Neue Rechte“ in der Bundesrepublik, https://www.bpb.de/politik/extremismus/rechtsextremismus/229981/die-neue-rechte-in-der-bundesrepublik, Abrufdatum 10.05.2019.
+
 [9]: Kaufmann, Sebastian: Nietzsche als Vordenker der Neuen Rechten?. In: Zeitschrift für Sozialpädagogik 1/2017, S. 88 f. 
+
 [10]: Ebd., S. 90.
+
 [11] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 89.
+
 [12] Jessen, Jens; Ijoma Mangold: Man macht sich zum Knecht. In: Die Zeit, 23/2016.
+
 [13] Ebd.
+
 [14] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 90.
+
 [15] Maegerle, Anton: Politischer und publizistischer Werdegang von Autoren der „Jungen Freiheit“. In: Braun, Stephan; Ute Vogt (Hg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden, Wiesbaden 2007, S. 205.
+
 [16] Nietzsche, Friedrich: Zur Genealogie der Moral. In: Frenzel, Ivo (Hg.): Friedrich Nietzsche. Werke in zwei Bänden, Bd. 2, München, 1967, S. 185.
+
 [17] Vgl., ebd., S. 187.
+
 [18] Vgl., ebd., S. 193.
+
 [19] Vgl., ebd., S. 190.
+
 [20] Vgl., ebd., S. 196.
+
 [21] Ebd., S. 195.
+
 [22] Vgl., ebd., S. 193.
+
 [23] Vgl., ebd., S. 191.
+
 [24] Ebd., S. 203.
+
 [25] Vgl., Hinz, Thorsten: Gutmenschen. Ideologie der Unschöpferischen. In: Junge Freiheit, 30/2009, Absatz 6.
+
 [26] Vgl., ebd., Absatz 12.
+
 [27] Nietzsche: Zur Genealogie der Moral, S. 195 f.
+
 [28] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 6.
+
 [29] Nietzsche: Zur Genealogie der Moral, S. 196.
+
 [30] Ebd
+
 [31] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 12.
+
 [32] Ottmann, Henning (Hg.): Nietzsche-Handbuch. Leben, Werke, Wirkung. Stuttgart 2000, S. 248.
+
 [33] Vgl., ebd.
+
 [34] Nietzsche: Zur Genealogie der Moral, S. 195.
+
 [35] Nietzsche: Zur Genealogie der Moral, S. 195.
+
 [36] Ebd., S. 196.
+
 [37] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 6.
+
 [38] Nietzsche: Zur Genealogie der Moral, S. 194.
+
 [39] Vgl., ebd., S.194.
+
 [40] Ebd., S. 194.
+
 [41] Vgl., ebd., S.194.
+
 [42] Vgl., ebd., S.195.
+
 [43] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 95.
+
 [44] Vgl., Nietzsche: Zur Genealogie der Moral, S. 194.
+
 [45] Nietzsche: Zur Genealogie der Moral, S. 194.
+
 [46] Vgl., Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 4.
+
 [47] Nietzsche: Zur Genealogie der Moral, S. 271.
+
 [48] Vgl., ebd.
+
 [49] Vgl., Aron, Raymond: Max Weber und die Machtpolitik. In: Stammer, O. (Hg.): Max Weber und die Soziologie heute: Verhandlungen des 15. Deutschen Soziologentages in Heidelberg 1964. Tübingen 1965, S. 105.
-[50[1]: Höcke, Bernd: Fragebogen. In: Junge Freiheit, 50/2014, Abrufdatum: 10.05.2019.
-[2]: Ebd.
-[3]: Junge Freiheit: Stellenangebote, https://jungefreiheit.de/informationen/stellenangebote/, Abrufdatum: 10.05.2019.
-[4]: Braun, Stephan; Alexander Geisler, Martin Gerster: Die „Junge Freiheit“ der „Neuen Rechten“. Bundes- und landespolitische Perspektiven zur „Jungen Freiheit“ und den Medien der „Neuen Rechten“. In: Braun, Stephan; Ute Vogt (Hg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden, Wiesbaden 2007, S. 17.
-[5]: Ebd., S. 16.
-[6]: Niedermayer, Oskar: Parteimitgliedschaften. In: Handbuch Parteienforschung, Wiesbaden 2013, S. 163.
-[7]: Decker, Frank: Die Organisation der AfD, https://www.bpb.de/politik/grundfragen/parteien-in-
-deutschland/afd/273133/organisation, Abrufdatum: 10.05.2019.
-[8]: Stöss, Richard: Die „Neue Rechte“ in der Bundesrepublik, https://www.bpb.de/politik/extremismus/rechtsextremismus/229981/die-neue-rechte-in-der-bundesrepublik, Abrufdatum 10.05.2019.
-[9]: Kaufmann, Sebastian: Nietzsche als Vordenker der Neuen Rechten?. In: Zeitschrift für Sozialpädagogik 1/2017, S. 88 f. 
-[10]: Ebd., S. 90.
-[11] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 89.
-[12] Jessen, Jens; Ijoma Mangold: Man macht sich zum Knecht. In: Die Zeit, 23/2016.
-[13] Ebd.
-[14] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 90.
-[15] Maegerle, Anton: Politischer und publizistischer Werdegang von Autoren der „Jungen Freiheit“. In: Braun, Stephan; Ute Vogt (Hg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden, Wiesbaden 2007, S. 205.
-[16] Nietzsche, Friedrich: Zur Genealogie der Moral. In: Frenzel, Ivo (Hg.): Friedrich Nietzsche. Werke in zwei Bänden, Bd. 2, München, 1967, S. 185.
-[17] Vgl., ebd., S. 187.
-[18] Vgl., ebd., S. 193.
-[19] Vgl., ebd., S. 190.
-[20] Vgl., ebd., S. 196.
-[21] Ebd., S. 195.
-[22] Vgl., ebd., S. 193.
-[23] Vgl., ebd., S. 191.
-[24] Ebd., S. 203.
-[25] Vgl., Hinz, Thorsten: Gutmenschen. Ideologie der Unschöpferischen. In: Junge Freiheit, 30/2009, Absatz 6.
-[26] Vgl., ebd., Absatz 12.
-[27] Nietzsche: Zur Genealogie der Moral, S. 195 f.
-[28] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 6.
-[29] Nietzsche: Zur Genealogie der Moral, S. 196.
-[30] Ebd
-[31] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 12.
-[32] Ottmann, Henning (Hg.): Nietzsche-Handbuch. Leben, Werke, Wirkung. Stuttgart 2000, S. 248.
-[33] Vgl., ebd.
-[34] Nietzsche: Zur Genealogie der Moral, S. 195.
-[35] Nietzsche: Zur Genealogie der Moral, S. 195.
-[36] Ebd., S. 196.
-[37] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 6.
-[38] Nietzsche: Zur Genealogie der Moral, S. 194.
-[39] Vgl., ebd., S.194.
-[40] Ebd., S. 194.
-[41] Vgl., ebd., S.194.
-[42] Vgl., ebd., S.195.
-[43] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 95.
-[44] Vgl., Nietzsche: Zur Genealogie der Moral, S. 194.
-[45] Nietzsche: Zur Genealogie der Moral, S. 194.
-[46] Vgl., Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 4.
-[47] Nietzsche: Zur Genealogie der Moral, S. 271 Nietzsche: Zur Genealogie der Moral, S. 194.
+
+[50] Nietzsche: Zur Genealogie der Moral, S. 194.
+
 [51] Ebd.
+
 [52] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 8.
+
 [53] Ebd., Absatz 14.
+
 [54] Ebd.
+
 [55] Nietzsche: Zur Genealogie der Moral, S. 180.
+
 [56] Vgl., ebd.
+
 [57] Ottmann: Nietzsche-Handbuch. Leben, Werke, Wirkung, S. 304.
+
 [58] Nietzsche: Zur Genealogie der Moral, S. 255.
+
 [59] Vgl. Stegmaier, Charles: Die Bedeutung des Priesters für das asketische Ideal. Nietzsches ‚Theorie‘ der Kultur Europas. In: Höffe, Otfried (Hg.): Zur Genealogie der Moral, Berlin 2004, S. 156.
+
 [60] Nietzsche: Zur Genealogie der Moral, S. 257 f.
+
 [61] Es gilt anzumerken, das diese verkürzte Darstellung der komplexen Charakterisierung des Priester von Nietzsche nicht gerecht wird und auch keinen Anspruch darauf erhebt. Um das Konzept der Selbstzerstörung von Hinz zu widerlegen, reicht die benutze Charakterisierung allerdings aus.
+
 [62] Vgl., ebd., S. 199.
+
 [63] Vgl., Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 11.
+
 [64] Vgl., Nietzsche: Zur Genealogie der Moral, S. 255.
+
 [65] Vgl., ebd., S. 202.
+
 [66] Vgl., ebd., S. 269.
+
 [67] Vgl., Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 12.
+
 [68] Ebd., Absatz 4.
+
 [69] Nietzsche: Zur Genealogie der Moral, S. 181.
+
 [70] Vgl., ebd., S. 191.
+
 [71] Ebd., S. 192.
+
 [72] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 5.
+
 [73] Vgl., ebd., Absatz 10.
+
 [74] Vgl., ebd., Absatz 4.
+
 [75] Ebd., Absatz 8.
+
 [76] Nietzsche: Zur Genealogie der Moral, S. 181.
+
 [77] Vgl., ebd., 126.
+
 [78] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 94 f.
+
 [79] Vgl. Wolf, Jean-Claude: Exposition von These und Gegenthese: Die bisherige „englische“ und Nietzsches Genealogie der Moral. In: Höffe, Otfried (Hg.): Zur Genealogie der Moral, Berlin 2004, S. 42.
+
 [80] Nietzsche: Zur Genealogie der Moral, S. 193.
+
 [81] Vgl., Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 12.
 
