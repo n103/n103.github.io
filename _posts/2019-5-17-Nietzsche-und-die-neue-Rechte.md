@@ -1,4 +1,9 @@
-        <table>
+---
+layout: post
+---
+test
+
+<table>
             <tr>
                 <th>Name</tMh>
                 <th>Marks</th>
@@ -21,3 +26,4 @@
                 <td colspan="2">Sum: 28</td>
             </tr>
         </table>
+test
