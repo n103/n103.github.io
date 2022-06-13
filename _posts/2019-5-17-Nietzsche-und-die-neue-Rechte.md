@@ -5,25 +5,17 @@ test
 
 <table>
             <tr>
-                <th>Name</tMh>
                 <th>Marks</th>
+                <th>Nietzsche[27]</th>
+                <th>Hinz[28]</th>
             </tr>
             <tr>
-                <td>Aman</td>
-                <td>10</td>
+                <td>1.</td>
+                <td>Hier wollen wir eins am wenigsten leugnen:</td>
+                <td>Für diejenigen, die diese Verhunzung sowohl der Politik als auch der Moral nicht hinnehmen wollen, gelten die Nietzsche-Sätze:</td>
             </tr>
             <tr>
-                <td>riya</td>
-                <td>18</td>
-            </tr>
-            <!-- The last row -->
-  
-            <tr>
-                <!-- This td will span two 
-                    columns, that is a 
-                    single column will take 
-                    up the space of 2 -->
-                <td colspan="2">Sum: 28</td>
+                <td>2.</td>
+                <td colspan="2">wer jene »Guten« nur als Feinde kennen lernte, lernte auch nichts als böse Feinde kennen,</td>
             </tr>
         </table>
-test
