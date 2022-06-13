@@ -1,6 +1,8 @@
 ---
 layout: post
 ---
+
+
 ### Einleitung
 
 *„Welches Buch hat Sie nachhaltig beeinflußt?“*[1] Diese Frage beantwortete Björn Höcke in einem Fragebogen der Wochenzeitung *Junge Freiheit* mit: „Friedrich Nietzsche: Genealogie der Moral“.2 Die Junge Freiheit  (JF) entstand, ihrer Selbstdarstellung nach, aus einem universitären Milieu in den 1980er Jahren. Sie bezeichnet sich als „das konservative Medium im deutschsprachigen Raum“.[3] Braun, Geisler und Gerster charakterisieren die Junge Freiheit als „eine der schärfsten Waffen im Arsenal der Neuen Rechten“.[4] Ihnen zufolge spielt das Blatt nach wie vor “für die Vernetzung von alter und neuer, extremer und demokratischer Rechter eine zentrale Rolle.“[5] Björn Höcke ist unteranderem Mitgründer der national-konservativen Gruppe ‚der Flügel‘ innerhalb der AfD.[6] „Dieser unterhält wiederum Verbindungen zur Identitären Bewegung und weiteren Zirkeln der sogenannten Neuen Rechten.“[7]
@@ -99,7 +101,7 @@ Es kann festgehalten werden, dass sich die Zitierweise von Hinz mit den Erfahrun
 
 In diesem Kapitel sollen Begriffsähnlichkeiten und -differenzen zwischen Nietzsche und Hinz untersucht werden. 
 
-Zuerst der Begriff der <u>Klugheit</u>, laut Nietzsche ist sie die größte Existenzbedingung für die Menschen des Ressentiments.[44] Deshalb werden Menschen des Ressentiments „notwendig endlich klüger sein als irgendeine vornehme Rasse“.[45] Auch Hinz spricht den Gutmenschen eine berechnende Eigenschaft zu,[46] spricht jedoch im gleichen Satz von einer politischen Naivität, ohne diese näher zu spezifizieren. Bei Nietzsche sind Aspekte einer Naivität von Menschen des Ressentiments zu erkennen,  wenn er diese als „blauäugig-verlogen“[47] beschreibt. Die Naivität entsteht daraus, dass der Mensch des Ressentiments gar nicht in der Lage ist, die Wahrheit über seine Situation zu ertragen und sich somit in seiner Naivität für eine Lüge entscheidet.[48] Im Kontext der politischen Naivität scheint jedoch der Abschnitt, den Hinz in Absatz 6 zitiert, aussagekräftiger. Dort beschreibt Nietzsche die Methodik der Menschen des Ressentiments. Dieser „versteht sich auf das Schweigen, das Nicht-Vergessen, das Warten, das vorläufige Sich-verkleinern, Sich-demütigen.“[50] Nietzsche stellt den Menschen des Ressentiments in seinem Streben also als taktisch und berechnend dar, er ist „weder aufrichtig, noch naiv, noch mit sich selber ehrlich und geradezu.“[51] 
+Zuerst der Begriff der <u>Klugheit</u>, laut Nietzsche ist sie die größte Existenzbedingung für die Menschen des Ressentiments.[44] Deshalb werden Menschen des Ressentiments „notwendig endlich klüger sein als irgendeine vornehme Rasse“.[45] Auch Hinz spricht den Gutmenschen eine berechnende Eigenschaft zu,[46] spricht jedoch im gleichen Satz von einer politischen <u>Naivität</u>, ohne diese näher zu spezifizieren. Bei Nietzsche sind Aspekte einer Naivität von Menschen des Ressentiments zu erkennen,  wenn er diese als „blauäugig-verlogen“[47] beschreibt. Die Naivität entsteht daraus, dass der Mensch des Ressentiments gar nicht in der Lage ist, die Wahrheit über seine Situation zu ertragen und sich somit in seiner Naivität für eine Lüge entscheidet.[48] Im Kontext der politischen Naivität scheint jedoch der Abschnitt, den Hinz in Absatz 6 zitiert, aussagekräftiger. Dort beschreibt Nietzsche die Methodik der Menschen des Ressentiments. Dieser „versteht sich auf das Schweigen, das Nicht-Vergessen, das Warten, das vorläufige Sich-verkleinern, Sich-demütigen.“[50] Nietzsche stellt den Menschen des Ressentiments in seinem Streben also als taktisch und berechnend dar, er ist „weder aufrichtig, noch naiv, noch mit sich selber ehrlich und geradezu.“[51] 
 
 Ein wiederkehrendes Motiv, das Hinz in seinem Artikel aufführt, ist der <u>Selbsthass</u> des Gutmenschen. In Absatz 8 attestiert Hinz ihnen einen Hang zum „Masochismus und Selbstmord“[52] und letztendlich „beschwören die ‚Gutmenschen‘ ihre Selbstausrottung herauf“.[53] Dabei reißen sie „die anderen mit in den Abgrund oder schubsen sie hinein“.[54] Nietzsche sieht in der Mitleidsmoral eine „große Gefahr der Menschheit“.[55] Allerdings zeigen sich bei ihm nicht die Züge einer vermeintlichen Ausrottung. Als Gefahr wird das Stehenbleiben, der Wille gegen das Leben und der Nihilismus angedeutet.[56] Auch der Wille gegen das Leben darf nicht als selbstmörderische Absicht verstanden werden. 
 „Der »Priester« figuriert als elitärer Agent[der] ressentiment-grundierten Sklavenmoral“.[57] In ihm herrscht 
@@ -130,7 +132,139 @@ Die Darstellung des Gutmenschen im Artikel erweckt nicht diese Gleichgültigkeit
 
 ### Konklusion
 
-Es konnte gezeigt werden, dass sich die Eigenschaften, Naivität, Selbsthass und Selbstzerstörung, des Gutmenschen von Hinz, nicht mit denen des Menschen des Ressentiments von Nietzsche decken. Selbst wenn der Gutmensch als ein Mensch des Ressentiments verstanden werden kann, so würde dies als Bestätigung für die Analyse der Gesellschaftsstrukturen nach Nietzsche dienen; Gutmenschen wären dann eine Untergruppe in der Sklavenmoral. Wichtig ist, dass die Behauptung, die Gruppe der Menschen des Ressentiments sei die gleiche, wie die der Gutmenschen, nicht belegt werden kann. <u>Die Sklavenmoral umfasst also mehr als das Gutmenschentum</u>. 
+Es konnte gezeigt werden, dass sich die Klugheit, Naivität und Selbsthass, des Gutmenschen von Hinz, nicht mit denen des Menschen des Ressentiments von Nietzsche decken. Selbst wenn der Gutmensch als ein Mensch des Ressentiments verstanden werden kann, so würde dies als Bestätigung für die Analyse der Gesellschaftsstrukturen nach Nietzsche dienen; Gutmenschen wären dann eine Untergruppe in der Sklavenmoral. Wichtig ist, dass die Behauptung, die Gruppe der Menschen des Ressentiments sei die gleiche, wie die der Gutmenschen, nicht belegt werden kann. <u>Die Sklavenmoral umfasst also mehr als das Gutmenschentum</u>. 
 
 Besonders eindrücklich wird dies dadurch, dass Hinz, durch das Verfassen des Artikels, fundamentale Merkmale der Sklavenmoral aufweist. Das untergräbt die offensichtliche Aufgabe des Artikels, den politischen Gegner, mit Bezug auf einen allgemein anerkannten Philosophen, zu diskreditieren. So bekundet Hinz reges Interesse an seinem seinen politischen Gegner, im Gegensatz zu der Ignoranz der Vornehmen. Es lässt sich eine Furcht vor kulturellen und religiösen Gruppen erkennen und insbesondere der Gutmensch wird als böser Feind dargestellt. Sich über das Böse zu definieren, <u>die fundamentale Eigenschaft der Sklavenmoral, kann Hinz hier nachgewiesen werden</u>, während genau diese wichtige Dimension bei der Charakterisierung vom Gutmenschen fehlt.
+
+
+---
+[1]: Höcke, Bernd: Fragebogen. In: Junge Freiheit, 50/2014, Abrufdatum: 10.05.2019.
+[2]: Ebd.
+[3]: Junge Freiheit: Stellenangebote, https://jungefreiheit.de/informationen/stellenangebote/, Abrufdatum: 10.05.2019.
+[4]: Braun, Stephan; Alexander Geisler, Martin Gerster: Die „Junge Freiheit“ der „Neuen Rechten“. Bundes- und landespolitische Perspektiven zur „Jungen Freiheit“ und den Medien der „Neuen Rechten“. In: Braun, Stephan; Ute Vogt (Hg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden, Wiesbaden 2007, S. 17.
+[5]: Ebd., S. 16.
+[6]: Niedermayer, Oskar: Parteimitgliedschaften. In: Handbuch Parteienforschung, Wiesbaden 2013, S. 163.
+[7]: Decker, Frank: Die Organisation der AfD, https://www.bpb.de/politik/grundfragen/parteien-in-
+deutschland/afd/273133/organisation, Abrufdatum: 10.05.2019.
+[8]: Stöss, Richard: Die „Neue Rechte“ in der Bundesrepublik, https://www.bpb.de/politik/extremismus/rechtsextremismus/229981/die-neue-rechte-in-der-bundesrepublik, Abrufdatum 10.05.2019.
+[9]: Kaufmann, Sebastian: Nietzsche als Vordenker der Neuen Rechten?. In: Zeitschrift für Sozialpädagogik 1/2017, S. 88 f. 
+[10]: Ebd., S. 90.
+[11] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 89.
+[12] Jessen, Jens; Ijoma Mangold: Man macht sich zum Knecht. In: Die Zeit, 23/2016.
+[13] Ebd.
+[14] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 90.
+[15] Maegerle, Anton: Politischer und publizistischer Werdegang von Autoren der „Jungen Freiheit“. In: Braun, Stephan; Ute Vogt (Hg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden, Wiesbaden 2007, S. 205.
+[16] Nietzsche, Friedrich: Zur Genealogie der Moral. In: Frenzel, Ivo (Hg.): Friedrich Nietzsche. Werke in zwei Bänden, Bd. 2, München, 1967, S. 185.
+[17] Vgl., ebd., S. 187.
+[18] Vgl., ebd., S. 193.
+[19] Vgl., ebd., S. 190.
+[20] Vgl., ebd., S. 196.
+[21] Ebd., S. 195.
+[22] Vgl., ebd., S. 193.
+[23] Vgl., ebd., S. 191.
+[24] Ebd., S. 203.
+[25] Vgl., Hinz, Thorsten: Gutmenschen. Ideologie der Unschöpferischen. In: Junge Freiheit, 30/2009, Absatz 6.
+[26] Vgl., ebd., Absatz 12.
+[27] Nietzsche: Zur Genealogie der Moral, S. 195 f.
+[28] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 6.
+[29] Nietzsche: Zur Genealogie der Moral, S. 196.
+[30] Ebd
+[31] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 12.
+[32] Ottmann, Henning (Hg.): Nietzsche-Handbuch. Leben, Werke, Wirkung. Stuttgart 2000, S. 248.
+[33] Vgl., ebd.
+[34] Nietzsche: Zur Genealogie der Moral, S. 195.
+[35] Nietzsche: Zur Genealogie der Moral, S. 195.
+[36] Ebd., S. 196.
+[37] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 6.
+[38] Nietzsche: Zur Genealogie der Moral, S. 194.
+[39] Vgl., ebd., S.194.
+[40] Ebd., S. 194.
+[41] Vgl., ebd., S.194.
+[42] Vgl., ebd., S.195.
+[43] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 95.
+[44] Vgl., Nietzsche: Zur Genealogie der Moral, S. 194.
+[45] Nietzsche: Zur Genealogie der Moral, S. 194.
+[46] Vgl., Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 4.
+[47] Nietzsche: Zur Genealogie der Moral, S. 271.
+[48] Vgl., ebd.
+[49] Vgl., Aron, Raymond: Max Weber und die Machtpolitik. In: Stammer, O. (Hg.): Max Weber und die Soziologie heute: Verhandlungen des 15. Deutschen Soziologentages in Heidelberg 1964. Tübingen 1965, S. 105.
+[50[1]: Höcke, Bernd: Fragebogen. In: Junge Freiheit, 50/2014, Abrufdatum: 10.05.2019.
+[2]: Ebd.
+[3]: Junge Freiheit: Stellenangebote, https://jungefreiheit.de/informationen/stellenangebote/, Abrufdatum: 10.05.2019.
+[4]: Braun, Stephan; Alexander Geisler, Martin Gerster: Die „Junge Freiheit“ der „Neuen Rechten“. Bundes- und landespolitische Perspektiven zur „Jungen Freiheit“ und den Medien der „Neuen Rechten“. In: Braun, Stephan; Ute Vogt (Hg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden, Wiesbaden 2007, S. 17.
+[5]: Ebd., S. 16.
+[6]: Niedermayer, Oskar: Parteimitgliedschaften. In: Handbuch Parteienforschung, Wiesbaden 2013, S. 163.
+[7]: Decker, Frank: Die Organisation der AfD, https://www.bpb.de/politik/grundfragen/parteien-in-
+deutschland/afd/273133/organisation, Abrufdatum: 10.05.2019.
+[8]: Stöss, Richard: Die „Neue Rechte“ in der Bundesrepublik, https://www.bpb.de/politik/extremismus/rechtsextremismus/229981/die-neue-rechte-in-der-bundesrepublik, Abrufdatum 10.05.2019.
+[9]: Kaufmann, Sebastian: Nietzsche als Vordenker der Neuen Rechten?. In: Zeitschrift für Sozialpädagogik 1/2017, S. 88 f. 
+[10]: Ebd., S. 90.
+[11] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 89.
+[12] Jessen, Jens; Ijoma Mangold: Man macht sich zum Knecht. In: Die Zeit, 23/2016.
+[13] Ebd.
+[14] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 90.
+[15] Maegerle, Anton: Politischer und publizistischer Werdegang von Autoren der „Jungen Freiheit“. In: Braun, Stephan; Ute Vogt (Hg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden, Wiesbaden 2007, S. 205.
+[16] Nietzsche, Friedrich: Zur Genealogie der Moral. In: Frenzel, Ivo (Hg.): Friedrich Nietzsche. Werke in zwei Bänden, Bd. 2, München, 1967, S. 185.
+[17] Vgl., ebd., S. 187.
+[18] Vgl., ebd., S. 193.
+[19] Vgl., ebd., S. 190.
+[20] Vgl., ebd., S. 196.
+[21] Ebd., S. 195.
+[22] Vgl., ebd., S. 193.
+[23] Vgl., ebd., S. 191.
+[24] Ebd., S. 203.
+[25] Vgl., Hinz, Thorsten: Gutmenschen. Ideologie der Unschöpferischen. In: Junge Freiheit, 30/2009, Absatz 6.
+[26] Vgl., ebd., Absatz 12.
+[27] Nietzsche: Zur Genealogie der Moral, S. 195 f.
+[28] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 6.
+[29] Nietzsche: Zur Genealogie der Moral, S. 196.
+[30] Ebd
+[31] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 12.
+[32] Ottmann, Henning (Hg.): Nietzsche-Handbuch. Leben, Werke, Wirkung. Stuttgart 2000, S. 248.
+[33] Vgl., ebd.
+[34] Nietzsche: Zur Genealogie der Moral, S. 195.
+[35] Nietzsche: Zur Genealogie der Moral, S. 195.
+[36] Ebd., S. 196.
+[37] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 6.
+[38] Nietzsche: Zur Genealogie der Moral, S. 194.
+[39] Vgl., ebd., S.194.
+[40] Ebd., S. 194.
+[41] Vgl., ebd., S.194.
+[42] Vgl., ebd., S.195.
+[43] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 95.
+[44] Vgl., Nietzsche: Zur Genealogie der Moral, S. 194.
+[45] Nietzsche: Zur Genealogie der Moral, S. 194.
+[46] Vgl., Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 4.
+[47] Nietzsche: Zur Genealogie der Moral, S. 271 Nietzsche: Zur Genealogie der Moral, S. 194.
+[51] Ebd.
+[52] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 8.
+[53] Ebd., Absatz 14.
+[54] Ebd.
+[55] Nietzsche: Zur Genealogie der Moral, S. 180.
+[56] Vgl., ebd.
+[57] Ottmann: Nietzsche-Handbuch. Leben, Werke, Wirkung, S. 304.
+[58] Nietzsche: Zur Genealogie der Moral, S. 255.
+[59] Vgl. Stegmaier, Charles: Die Bedeutung des Priesters für das asketische Ideal. Nietzsches ‚Theorie‘ der Kultur Europas. In: Höffe, Otfried (Hg.): Zur Genealogie der Moral, Berlin 2004, S. 156.
+[60] Nietzsche: Zur Genealogie der Moral, S. 257 f.
+[61] Es gilt anzumerken, das diese verkürzte Darstellung der komplexen Charakterisierung des Priester von Nietzsche nicht gerecht wird und auch keinen Anspruch darauf erhebt. Um das Konzept der Selbstzerstörung von Hinz zu widerlegen, reicht die benutze Charakterisierung allerdings aus.
+[62] Vgl., ebd., S. 199.
+[63] Vgl., Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 11.
+[64] Vgl., Nietzsche: Zur Genealogie der Moral, S. 255.
+[65] Vgl., ebd., S. 202.
+[66] Vgl., ebd., S. 269.
+[67] Vgl., Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 12.
+[68] Ebd., Absatz 4.
+[69] Nietzsche: Zur Genealogie der Moral, S. 181.
+[70] Vgl., ebd., S. 191.
+[71] Ebd., S. 192.
+[72] Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 5.
+[73] Vgl., ebd., Absatz 10.
+[74] Vgl., ebd., Absatz 4.
+[75] Ebd., Absatz 8.
+[76] Nietzsche: Zur Genealogie der Moral, S. 181.
+[77] Vgl., ebd., 126.
+[78] Kaufmann: Nietzsche als Vordenker der Neuen Rechten?, S. 94 f.
+[79] Vgl. Wolf, Jean-Claude: Exposition von These und Gegenthese: Die bisherige „englische“ und Nietzsches Genealogie der Moral. In: Höffe, Otfried (Hg.): Zur Genealogie der Moral, Berlin 2004, S. 42.
+[80] Nietzsche: Zur Genealogie der Moral, S. 193.
+[81] Vgl., Hinz: Gutmenschen. Ideologie der Unschöpferischen, Absatz 12.
 
